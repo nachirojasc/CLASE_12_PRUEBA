@@ -1,2 +1,2 @@
-# CLASE_13_PRUEBA
+# CLASE_12_PRUEBA
 Prueba individual
